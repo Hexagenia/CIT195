@@ -1,0 +1,15 @@
+F:\NMC\Projects\Week 3\myParams\bin\Debug\net8.0\myParams.exe
+F:\NMC\Projects\Week 3\myParams\bin\Debug\net8.0\myParams.deps.json
+F:\NMC\Projects\Week 3\myParams\bin\Debug\net8.0\myParams.runtimeconfig.json
+F:\NMC\Projects\Week 3\myParams\bin\Debug\net8.0\myParams.dll
+F:\NMC\Projects\Week 3\myParams\bin\Debug\net8.0\myParams.pdb
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.AssemblyInfo.cs
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.sourcelink.json
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.dll
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\refint\myParams.dll
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.pdb
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\myParams.genruntimeconfig.cache
+F:\NMC\Projects\Week 3\myParams\obj\Debug\net8.0\ref\myParams.dll
