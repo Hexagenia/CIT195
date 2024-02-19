@@ -1,0 +1,15 @@
+F:\NMC\Projects\Week 3\MusicArray\bin\Debug\net8.0\MusicArray.exe
+F:\NMC\Projects\Week 3\MusicArray\bin\Debug\net8.0\MusicArray.deps.json
+F:\NMC\Projects\Week 3\MusicArray\bin\Debug\net8.0\MusicArray.runtimeconfig.json
+F:\NMC\Projects\Week 3\MusicArray\bin\Debug\net8.0\MusicArray.dll
+F:\NMC\Projects\Week 3\MusicArray\bin\Debug\net8.0\MusicArray.pdb
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.AssemblyInfo.cs
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.sourcelink.json
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.dll
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\refint\MusicArray.dll
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.pdb
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\MusicArray.genruntimeconfig.cache
+F:\NMC\Projects\Week 3\MusicArray\obj\Debug\net8.0\ref\MusicArray.dll
